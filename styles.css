@@ -1,0 +1,16 @@
+.header{
+    text-align: left;
+    text-indent: 5;
+}
+.my-image {
+    width: 300px; /* Set the desired width of the image */
+    height: auto; /* Allow the height to adjust proportionally based on the width */
+  }
+  p {
+    font-size: 16px; /* Optional: Set a font size for all paragraphs */
+  }
+  
+  .italic {
+    font-style: italic; /* Apply italic style to paragraphs with the "italic" class */
+  }
+  
